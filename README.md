@@ -63,9 +63,6 @@ Mi meta actual es dominar la **arquitectura de software** y participar en proyec
 
 ## 📊 Logros y Racha en GitHub
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=caanmuce&theme=onedark&column=6&margin-w=15" alt="Trofeos GitHub" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caanmuce&theme=dark&hide_border=false" alt="Racha de commits" />
