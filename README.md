@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/in/camilo-mu%C3%B1oz-0847963ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@ejemplo.com">
+  <a href="caanmucelis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
