@@ -1,4 +1,4 @@
-# ¡Hola! Camilo Andres Muñoz Celis
+# ¡Hola! soy Camilo Andres Muñoz Celis
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desarrollador+Backend;TypeScript+%7C+Python+%7C+Node.js;Bases+de+datos+SQL+%2B+NoSQL;Construyendo+APIs+escalables" alt="Typing SVG" />
