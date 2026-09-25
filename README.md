@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Camilo Muñoz 👋
 
-###  Técnico en Análisis y Desarrollo de Software
+### 👨‍💻 Técnico en Análisis y Desarrollo de Software
 **Estudiante de ADSO en el SENA** · *Medellín, Colombia 🇨🇴*
 
 `Desarrollo Backend` · `Bases de Datos SQL` · `Lógica de Programación`
@@ -23,6 +23,18 @@
 ## 🎯 Mis Objetivos
 
 Mi meta actual es dominar la **arquitectura de software** y participar en proyectos que impacten positivamente. Estoy en búsqueda de mi **primera oportunidad profesional** donde pueda aportar mi capacidad lógica y mi nivel de inglés.
+
+---
+
+## 📌 Repositorios Destacados
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+| :--- | :--- | :--- | :---: |
+| **🚀 Proyecto 1** | Proyecto de grado en progreso, , hecho con una arquitectura node.js, express y javascript | `PostgreSQL` `Node.js` | [Ver Código](https://github.com/caanmuce/CLINICITA-NODE.JS) |
+| **💻 Proyecto 2** | proyecto desarrollado entre 10 y 11 grado que me permitió graduarme con uno de los mejores proyectos de investigación del colegio | `Python` `SQL` | [Ver Código](https://github.com/caanmuce/proyecto-de-grado) |
+| **⚙️ Proyecto 3** | Todas mis clases y aprendizajes adquiridos de JavaScript en mi formacion tecnologica | `HTML` `JavaScript` | [Ver Código](https://github.com/caanmuce/fundamentos-js) |
+
+> 💡 *Sustituye `NOMBRE_DE_TU_REPO_X` por los nombres exactos de tus repositorios en GitHub.*
 
 ---
 
@@ -49,11 +61,14 @@ Mi meta actual es dominar la **arquitectura de software** y participar en proyec
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Logros y Racha en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caanmuce&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caanmuce&layout=compact&theme=dark" alt="Lenguajes más usados" />
+  <img src="https://github-profile-trophy.vercel.app/?username=caanmuce&theme=onedark&column=6&margin-w=15" alt="Trofeos GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caanmuce&theme=dark&hide_border=false" alt="Racha de commits" />
 </p>
 
 ---
