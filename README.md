@@ -13,27 +13,26 @@ Técnico en Análisis y Desarrollo de Software y actualmente curso la Tecnologí
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
-- 🎓 **Trayectoria:** Me gradué como Técnico en Desarrollo de Software en el colegio y ahora estoy profundizando mis conocimientos en la tecnología.
-- 📚 **Aprendiendo actualmente:** Modelado de Bases de Datos, levantamiento de Requisitos, Algoritmia avanzada y fundamentos de Front-End.
-- 🌐 **Idiomas:** Español (Nativo) e Inglés (Nivel B2/B1+), lo que me permite documentarme y trabajar en entornos bilingües.
-- 🖥️ **Intereses:** Me apasiona entender cómo funciona el hardware de las PCs, la lógica de programación y la evolución tecnológica.
+-  **Trayectoria:** Me gradué como Técnico en Desarrollo de Software en el colegio y ahora estoy profundizando mis conocimientos en la tecnología.
+-  **Aprendiendo actualmente:** Modelado de Bases de Datos, levantamiento de Requisitos, Algoritmia avanzada y fundamentos de Front-End.
+-  **Idiomas:** Español (Nativo) e Inglés (Nivel B2/B1+), lo que me permite documentarme y trabajar en entornos bilingües.
+-  **Intereses:** Me apasiona entender cómo funciona el hardware de las PCs, la lógica de programación y la evolución tecnológica.
 
 ---
 
-## 🎯 Mis Objetivos
+##  Mis Objetivos
 
 Mi meta actual es dominar la **arquitectura de software** y participar en proyectos que impacten positivamente. Estoy en búsqueda de mi **primera oportunidad profesional** donde pueda aportar mi capacidad lógica y mi nivel de inglés.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 ### Lógica y Desarrollo
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Gestión y Productividad
@@ -46,7 +45,7 @@ Mi meta actual es dominar la **arquitectura de software** y participar en proyec
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caanmuce&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -55,7 +54,7 @@ Mi meta actual es dominar la **arquitectura de software** y participar en proyec
 
 ---
 
-## 📬 Conéctate conmigo
+##  Conéctate conmigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/camilo-mu%C3%B1oz-0847963ba/" target="_blank">
