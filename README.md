@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Camilo Muñoz 👋
 
-### 👨‍💻 Técnico en Análisis y Desarrollo de Software
+###  Técnico en Análisis y Desarrollo de Software
 **Estudiante de ADSO en el SENA** · *Medellín, Colombia 🇨🇴*
 
 `Desarrollo Backend` · `Bases de Datos SQL` · `Lógica de Programación`
