@@ -13,10 +13,10 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 **Trayectoria:** Me gradué como Técnico en Desarrollo de Software en el colegio y ahora estoy profundizando mis conocimientos en la tecnología.
-- 📚 **Aprendiendo actualmente:** Modelado de Bases de Datos, levantamiento de Requisitos, Algoritmia avanzada y fundamentos de Front-End.
-- 🌐 **Idiomas:** Español (Nativo) e Inglés (Nivel B2/B1+), lo que me permite documentarme y trabajar en entornos bilingües.
-- 🖥️ **Intereses:** Me apasiona entender cómo funciona el hardware de las PCs, la lógica de programación y la evolución tecnológica.
+-  **Trayectoria:** Me gradué como Técnico en Desarrollo de Software en el colegio y ahora estoy profundizando mis conocimientos en la tecnología.
+-  **Aprendiendo actualmente:** Modelado de Bases de Datos, levantamiento de Requisitos, Algoritmia avanzada y fundamentos de Front-End.
+-  **Idiomas:** Español (Nativo) e Inglés (Nivel B2/B1+), lo que me permite documentarme y trabajar en entornos bilingües.
+-  **Intereses:** Me apasiona entender cómo funciona el hardware de las PCs, la lógica de programación y la evolución tecnológica.
 
 ---
 
