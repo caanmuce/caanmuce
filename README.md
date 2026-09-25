@@ -47,7 +47,7 @@
 ## 📬 Conéctate conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/in/camilo-mu%C3%B1oz-0847963ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tuemail@ejemplo.com">
