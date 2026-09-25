@@ -1,8 +1,13 @@
 # ¡Hola! Soy Camilo Muñoz 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=T%C3%A9cnico+en+An%C3%A1lisis+y+Desarrollo+de+Software;Estudiante+de+ADSO+en+el+SENA+%7C+Medell%C3%ADn%2C+CO;Desarrollo+Backend+%7C+SQL+%7C+L%C3%B3gica+de+Programaci%C3%B3n" alt="Typing SVG" />
-</p>
+<div align="center">
+
+### 👨‍💻 Técnico en Análisis y Desarrollo de Software
+**Estudiante de ADSO en el SENA** · *Medellín, Colombia 🇨🇴*
+
+`Desarrollo Backend` · `Bases de Datos SQL` · `Lógica de Programación`
+
+</div>
 
 Técnico en Análisis y Desarrollo de Software y actualmente curso la Tecnología en ADSO en el SENA, en Medellín. 🇨🇴
 
