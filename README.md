@@ -30,7 +30,7 @@ Mi meta actual es dominar la **arquitectura de software** y participar en proyec
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| **🚀 Proyecto 1** | Proyecto de grado en progreso, , hecho con una arquitectura node.js, express y javascript | `PostgreSQL` `Node.js` | [Ver Código](https://github.com/caanmuce/CLINICITA-NODE.JS) |
+| **🚀 Proyecto 1** | Proyecto de grado en progreso, , hecho con una arquitectura node.js, express y javascript | `MySQL` `Node.js` | [Ver Código](https://github.com/caanmuce/CLINICITA-NODE.JS) |
 | **💻 Proyecto 2** | proyecto desarrollado entre 10 y 11 grado que me permitió graduarme con uno de los mejores proyectos de investigación del colegio | `Python` `SQL` | [Ver Código](https://github.com/caanmuce/proyecto-de-grado) |
 | **⚙️ Proyecto 3** | Todas mis clases y aprendizajes adquiridos de JavaScript en mi formacion tecnologica | `HTML` `JavaScript` | [Ver Código](https://github.com/caanmuce/fundamentos-js) |
 
